@@ -1,38 +1,13 @@
-# Welcome to React Router!
+# Address Book
 
-- [React Router Docs](https://reactrouter.com/home)
+Created with React Router
 
-## Development
+Demo: https://astounding-puppy-3177c8.netlify.app
 
-From your terminal:
+## CRUD
 
-```sh
-npm run dev
-```
-
-This starts your app in development mode, rebuilding assets on file changes.
-
-## Deployment
-
-First, build your app for production:
-
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying node applications, the built-in React Router app server is production-ready.
-
-Make sure to deploy the output of `react-router build`
-
-- `build/server`
-- `build/client`
+- Add a new contact
+- Edit a contact
+- Delete a contact
+- Toggle a favorite
+- Search contact
